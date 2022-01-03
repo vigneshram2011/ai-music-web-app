@@ -1,0 +1,33 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+body {
+    background-size: cover;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.div_song_name {
+    float: left;
+}
+
+#song_name {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.container {
+    display: inline-block;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+}
